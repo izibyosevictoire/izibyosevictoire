@@ -1,4 +1,4 @@
-## Hi there 👋 I'm VICTOIRE ,you can call me Vicky 😄
+## Hi there 👋 I'm Victoire IZIBYOSE ,you can also call me Vicky 😄
 
 ## Technical Expertise
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,cpp,figma,mongodb,nodejs,postman,react,tailwind)](https://skillicons.dev)
